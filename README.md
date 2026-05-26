@@ -3,14 +3,12 @@
 </p>
 
 <h1 align="center">
-  Me chamo Daniel Vitoriano!
+  Me chamo Kelven Gallippi!
 </h1>
 
 <p align="center">
-<a href="https://github.com/daniel160910">
-  <img height="50" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"/>
-</a>
-<a href="instagram/@vitoriano_daniel010">
+<a href="https://github.com/Kelven7595">
+ 
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
 </p>
