@@ -14,7 +14,7 @@
 
 ---
 
-<h1 align="center"> 💳 Certificados</h1>
+<h1 align="center">Certificados</h1>
 
 <div align="center">
 
