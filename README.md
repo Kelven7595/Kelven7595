@@ -19,19 +19,19 @@
 <div align="center">
 
 <a href="https://skills.yourlearning.ibm.com/certificate/share/dfdd125386ewogICJsZWFybmVyQ05VTSIgOiAiODA3MTcwNVJFRyIsCiAgIm9iamVjdFR5cGUiIDogIkFDVElWSVRZIiwKICAib2JqZWN0SWQiIDogIlBMQU4tMTRGMjY5MUUzQTMyIgp9c4ebe69ddc-10">
-    <img src="certificados/ibm-skillsbuild-ad.png" alt="Certificado 1" width="220">
+    <img src="certificados/ibm-skillsbuild-ad.png" alt="Certificado 1" width="210">
 </a>
 
 <a href="https://skills.yourlearning.ibm.com/certificate/share/0f517c5140ewogICJsZWFybmVyQ05VTSIgOiAiODA4NDM4MlJFRyIsCiAgIm9iamVjdElkIiA6ICJQTEFOLTE0RjI2OTFFM0EzMiIsCiAgIm9iamVjdFR5cGUiIDogIkFDVElWSVRZIgp9f8a72e432c-10">
-    <img src="certificados/ibm-skillsbuild-bd.png" alt="Certificado 2" width="220">
+    <img src="certificados/ibm-skillsbuild-bd.png" alt="Certificado 2" width="210">
 </a>
 
 <a href="https://skills.yourlearning.ibm.com/certificate/share/34c441c609ewogICJvYmplY3RJZCIgOiAiUExBTi04NzQ5QzAyQTc4RUMiLAogICJvYmplY3RUeXBlIiA6ICJBQ1RJVklUWSIsCiAgImxlYXJuZXJDTlVNIiA6ICI4MDg0MzgyUkVHIgp9e7c623ae37-10">
-    <img src="certificados/ibm-skillsbuild-iw.png" alt="Certificado 3" width="220">
+    <img src="certificados/ibm-skillsbuild-iw.png" alt="Certificado 3" width="210">
 </a>
 
 <a href="https://skills.yourlearning.ibm.com/certificate/share/ff1e85d451ewogICJvYmplY3RJZCIgOiAiUExBTi1CMkRFNUM5MjdFRUMiLAogICJvYmplY3RUeXBlIiA6ICJBQ1RJVklUWSIsCiAgImxlYXJuZXJDTlVNIiA6ICI4MDg0MzgyUkVHIgp9cf113bb6b9-10">
-    <img src="certificados/ibm-skillsbuild-ptic.png" alt="Certificado 4" width="220">
+    <img src="certificados/ibm-skillsbuild-ptic.png" alt="Certificado 4" width="210">
 </a>
 </div>
 
